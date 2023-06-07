@@ -3,7 +3,7 @@
 
 <img src='https://www.mshowto.org/images/articles/2019/12/justmock__net_770.png' alt='.net'>
 
-- 🔭 I’m currently working on **Buildin Management Project (.net Core 7)**
+- 🔭 I’m currently working on **Building Management Project (.net Core 7)**
 
 - 🌱 I’m currently learning **JS**
 
