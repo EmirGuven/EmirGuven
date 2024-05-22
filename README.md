@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emir</h1>
-<h3 align="center">An Ambitious Junior Full-Stack Developer</h3>
-
-<img src='https://www.mshowto.org/images/articles/2019/12/justmock__net_770.png' alt='.net'>
-
-- 🔭 I’m currently working on **Building Management Project (.net Core 7)**
-
-- 🌱 I’m currently learning **JS**
+<h3 align="center">An Ambitious Full-Stack Developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/EmirGuven](https://github.com/EmirGuven)
 
